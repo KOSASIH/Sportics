@@ -1,1 +1,1 @@
-Sportics is open to the public so anyone can contribute to develop it.  Please fork or clone this repository and follow the instructions in the code of conduct and other instructions.  Let's together create a better future.
+Sportics is open to the public so anyone can contribute to develop it. Please fork or clone this repository and follow the instructions in the code of conduct and other instructions. Let's together create a better future.
