@@ -1,7 +1,6 @@
 [![CodeQL](https://github.com/KOSASIH/Sportics/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/KOSASIH/Sportics/actions/workflows/codeql-analysis.yml)
 [![DeepSource](https://deepsource.io/gh/KOSASIH/Sportics.svg/?label=active+issues&show_trend=true&token=FXbjKy3vLfrDP7tlnWUD8Tph)](https://deepsource.io/gh/KOSASIH/Sportics/?ref=repository-badge)
 
-
 # Sportics
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte), deployed to [Vercel](https://vercel.com).
